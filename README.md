@@ -5,3 +5,4 @@ Note the bartop dimensions were taken from instrucables.com but adjusted to my l
 I have included the gimp xcf file so you can adjust it or edit the artwork to your own requirements. 
 
 Finished Bartop.
+![alt text](IMG_20170713_172816.jpg)
