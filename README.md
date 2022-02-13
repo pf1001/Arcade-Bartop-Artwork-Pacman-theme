@@ -4,5 +4,5 @@ It was a pacman theme designed using mostly arcade images and arcade artwork dow
 Note the bartop dimensions were taken from instrucables.com but adjusted to my liking. So the artwork and therefore the bartop is not the same size as what is in the plans that you may find on instrucatables.com or else where.  
 I have included the gimp xcf file so you can adjust it or edit the artwork to your own requirements. 
 
-Finished Bartop.
-![alt text](IMG_20170713.jpg)(IMG_20170713_2.jpg)
+Finished Bartop.  
+![alt text](IMG_20170713.jpg)![alt text](IMG_20170713_2.jpg)
